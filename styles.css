@@ -116,6 +116,7 @@ body {
 @media (min-width:1044px) {
     .main-container {
         width: 920px;
+        height: 639px;
         margin: 129px auto;
         padding: 0;
         display: flex;
