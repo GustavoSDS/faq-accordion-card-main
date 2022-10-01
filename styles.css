@@ -31,7 +31,7 @@ body {
 }
 
 .main-container {
-    background-color: var(--LightGrayishBlue);
+    background-color: var(--White);
     width: 330px;
     min-height: 536px;
     margin: 147px auto 30px;
